@@ -75,7 +75,7 @@ main {
     padding: 40px;
     display: flex;
     flex-direction: column;
-    width: 60%;
+    width: 800px;
     align-self: center;
     flex: 1;
 }
